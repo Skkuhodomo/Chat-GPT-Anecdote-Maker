@@ -33,7 +33,7 @@ Install library
   pip install -r requirement.txt
 ```
 
-## Example: 
+## Example
 <img
   src="Images/3.png"
   width="700"
