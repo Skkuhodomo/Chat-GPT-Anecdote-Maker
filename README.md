@@ -1,14 +1,17 @@
 # ChatGPT Anecdote Maker
 
+This is a simple code that, when provided with a topic, allows you to receive a relevant anecdote from ChatGPT.
 
 
 ## What is Langchain 🦜️🔗 ? 
 
 LangChain is a framework for developing applications powered by language models [[1]]
 
+
+
 If you want to learn more about Langchain, [Click Here](https://python.langchain.com/docs/get_started/introduction)
 
-##Getting Started
+## Getting Started
 
 Download Source code 
 ```
