@@ -1,6 +1,6 @@
 # ChatGPT Anecdote Maker
 
-This is a simple code that, when provided with a topic, allows you to receive a relevant anecdote from ChatGPT.
+This is a simple code that, when provided with a topic, gives you to anecdote from ChatGPT.
 ## Flow of my code 🦭
 
 <img
