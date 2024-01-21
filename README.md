@@ -40,6 +40,6 @@ Install library
   height="300"
 />
 
-##### References:
+
   [1]: https://python.langchain.com/docs/get_started/introduction
 
