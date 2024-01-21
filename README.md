@@ -29,5 +29,5 @@ Install library
 />
 
 ##### References:
-  [1]:https://python.langchain.com/docs/get_started/introduction
+  [1]: https://python.langchain.com/docs/get_started/introduction
 
