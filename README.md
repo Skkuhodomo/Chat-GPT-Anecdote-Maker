@@ -1,8 +1,6 @@
 # Chat GPT Anecdote Maker
 
 
-##What is langchain⛓️🦜 ? 
+## What is langchain⛓️🦜 ? 
 + add discription
-
-##
 
