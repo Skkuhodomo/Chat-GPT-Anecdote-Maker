@@ -3,11 +3,7 @@
 This is a simple code that, when provided with a topic, gives you to anecdote from ChatGPT.
 ## Flow of my code 🦭
 
-<img
-  src="Images/4.png"
-  width="700"
-  height="300"
-/>
+![preview](4.png)
 
 
 ## What is Langchain 🦜️🔗 ? 
