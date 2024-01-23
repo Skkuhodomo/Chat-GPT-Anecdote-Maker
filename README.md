@@ -3,7 +3,7 @@
 This is a simple code that, when provided with a topic, gives you to anecdote from ChatGPT.
 ## Flow of my code 🦭
 
-![preview](4.png)
+![preview](Images/4.png)
 
 
 ## What is Langchain 🦜️🔗 ? 
@@ -30,12 +30,8 @@ Install library
 ```
 
 ## Example
-<img
-  src="Images/3.png"
-  width="700"
-  height="300"
-/>
 
+![preview](Images/3.png)
 
   [1]: https://python.langchain.com/docs/get_started/introduction
 
