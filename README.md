@@ -10,7 +10,7 @@ This is a simple code that, when provided with a topic, gives you to anecdote fr
 
 LangChain is a framework for developing applications powered by language models [[1]]
 
-
+![preview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1L5F1Vd-lEeUQItztlbkhw.png)
 
 If you want to learn more about Langchain, [Click Here](https://python.langchain.com/docs/get_started/introduction)
 
