@@ -1,8 +1,8 @@
 from dotenv import load_dotenv
 import streamlit as st
+from langchain.chat_models import ChatOpenAI
 
 load_dotenv()
-from langchain.chat_models import ChatOpenAI
 chat_model = ChatOpenAI()
 st.title('AI Quote of the Day.')
 st.title('GPT comes up with a pretty cool quote. :sunglasses:')
